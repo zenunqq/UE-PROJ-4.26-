@@ -1,5 +1,5 @@
 # FNGameProj-14.30
-> This is a Unreal Project for modding a old Version of Fortnite (14.30) which has every c++ class recreated
+> This is a Unreal Project for modding a old Version of Fortnite (14.30/13.40) which has every c++ class recreated
 
 ## How To use
 
