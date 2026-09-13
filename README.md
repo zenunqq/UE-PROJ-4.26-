@@ -24,3 +24,4 @@ Now launch the Project by launching the *FortniteGame.uproject*
 - [boredcrow24](https://twitter.com/boredcrow24) - Code fixes and additions
 - [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - UHT Dump
 - [UE4GameProjectGenerator](https://github.com/Buckminsterfullerene02/UE4GameProjectGenerator) - Project generation
+- {Zenunq}(https://github.com/zenunqq) for fixing build an engine errors
